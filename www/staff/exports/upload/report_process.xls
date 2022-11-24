@@ -1,0 +1,432 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1251">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 14">
+<link id=Main-File rel=Main-File href="../report_process.htm">
+<style type="text/css">
+tr
+  {mso-height-source:auto;}
+col
+  {mso-width-source:auto;}
+br
+  {mso-data-placement:same-cell;}
+.style0
+  {mso-number-format:General;
+  text-align:general;
+  vertical-align:bottom;
+  white-space:nowrap;
+  mso-rotate:0;
+  mso-background-source:auto;
+  mso-pattern:auto;
+  color:black;
+  font-size:11.0pt;
+  font-weight:400;
+  font-style:normal;
+  text-decoration:none;
+  font-family:Calibri;
+  mso-generic-font-family:auto;
+  mso-font-charset:0;
+  border:none;
+  mso-protection:locked visible;
+  mso-style-name:РћР±С‹С‡РЅС‹Р№;
+  mso-style-id:0;}
+td
+  {mso-style-parent:style0;
+  padding-top:1px;
+  padding-right:1px;
+  padding-left:1px;
+  mso-ignore:padding;
+  color:black;
+  font-size:11.0pt;
+  font-weight:400;
+  font-style:normal;
+  text-decoration:none;
+  font-family:Calibri;
+  mso-generic-font-family:auto;
+  mso-font-charset:0;
+  mso-number-format:General;
+  text-align:general;
+  vertical-align:bottom;
+  border:none;
+  mso-background-source:auto;
+  mso-pattern:auto;
+  mso-protection:locked visible;
+  white-space:nowrap;
+  mso-rotate:0;}
+.xl65
+  {mso-style-parent:style0;
+  vertical-align:middle;}
+.xl66
+  {mso-style-parent:style0;
+  color:black;}
+.xl67
+  {mso-style-parent:style0;
+  color:black;
+  font-weight:700;
+  font-family:"Quattrocento Sans";
+  mso-generic-font-family:auto;
+  mso-font-charset:0;
+  text-align:center;
+  vertical-align:middle;
+  border:.5pt solid windowtext;
+  white-space:normal;}
+.xl68
+  {mso-style-parent:style0;
+  color:#212529;
+  font-size:12.0pt;
+  font-weight:700;
+  font-family:Arial, sans-serif;
+  mso-font-charset:204;
+  vertical-align:middle;
+  white-space:normal;}
+.xl69
+  {mso-style-parent:style0;
+  color:black;
+  font-size:12.0pt;
+  font-weight:700;
+  font-family:Arial, sans-serif;
+  mso-font-charset:204;
+  vertical-align:middle;}
+.xl70
+  {mso-style-parent:style0;
+  color:black;
+  font-size:12.0pt;
+  font-family:Arial, sans-serif;
+  mso-font-charset:204;
+  vertical-align:middle;}
+.xl71
+  {mso-style-parent:style0;
+  color:#212529;
+  font-size:12.0pt;
+  font-family:"Quattrocento Sans";
+  mso-generic-font-family:auto;
+  mso-font-charset:0;
+  vertical-align:middle;
+  white-space:normal;}
+.xl72
+  {mso-style-parent:style0;
+  color:black;
+  font-family:"Quattrocento Sans";
+  mso-generic-font-family:auto;
+  mso-font-charset:0;
+  vertical-align:middle;
+  white-space:normal;}
+.xl73
+  {mso-style-parent:style0;
+  color:black;
+  font-weight:700;
+  font-family:"Quattrocento Sans";
+  mso-generic-font-family:auto;
+  mso-font-charset:0;
+  text-align:center;
+  vertical-align:middle;
+  white-space:normal;}
+.xl74
+  {mso-style-parent:style0;
+  color:black;
+  font-family:"Quattrocento Sans";
+  mso-generic-font-family:auto;
+  mso-font-charset:0;
+  text-align:center;
+  vertical-align:middle;
+  white-space:normal;}
+.xl75
+  {mso-style-parent:style0;
+  color:black;
+  font-family:"Quattrocento Sans";
+  mso-generic-font-family:auto;
+  mso-font-charset:0;
+  text-align:center;
+  vertical-align:middle;
+  background:white;
+  mso-pattern:#FFEEBA none;
+  white-space:normal;}
+.xl76
+  {mso-style-parent:style0;
+  color:black;
+  font-family:"Quattrocento Sans";
+  mso-generic-font-family:auto;
+  mso-font-charset:0;
+  text-align:center;
+  vertical-align:middle;
+  background:white;
+  mso-pattern:#C3E6CB none;
+  white-space:normal;}
+.xl77
+  {mso-style-parent:style0;
+  color:black;
+  font-family:"Quattrocento Sans";
+  mso-generic-font-family:auto;
+  mso-font-charset:0;
+  text-align:center;
+  vertical-align:middle;
+  background:white;
+  mso-pattern:#F5C6CB none;
+  white-space:normal;}
+.xl78
+  {mso-style-parent:style0;
+  color:white;
+  font-family:"Quattrocento Sans";
+  mso-generic-font-family:auto;
+  mso-font-charset:0;
+  text-align:center;
+  vertical-align:middle;
+  background:white;
+  mso-pattern:#343A40 none;
+  white-space:normal;}
+.xl79
+  {mso-style-parent:style0;
+  text-align:center;
+  vertical-align:middle;
+  border:.5pt solid windowtext;}
+.xl80
+  {mso-style-parent:style0;
+  color:black;
+  text-align:center;
+  vertical-align:middle;
+  border:.5pt solid windowtext;}
+.xl81
+  {mso-style-parent:style0;
+  color:#212529;
+  font-size:12.0pt;
+  font-weight:700;
+  font-family:Arial, sans-serif;
+  mso-font-charset:204;
+  text-align:center;
+  vertical-align:middle;
+  border:.5pt solid windowtext;
+  white-space:normal;}
+.xl82
+  {mso-style-parent:style0;
+  color:black;
+  font-size:12.0pt;
+  font-weight:700;
+  font-family:Arial, sans-serif;
+  mso-font-charset:204;
+  text-align:center;
+  vertical-align:middle;
+  border:.5pt solid windowtext;}
+.xl83
+  {mso-style-parent:style0;
+  color:black;
+  font-size:12.0pt;
+  font-family:Arial, sans-serif;
+  mso-font-charset:204;
+  text-align:center;
+  vertical-align:middle;
+  border:.5pt solid windowtext;}
+.xl84
+  {mso-style-parent:style0;
+  color:#212529;
+  font-size:12.0pt;
+  font-weight:700;
+  font-family:"Quattrocento Sans";
+  mso-generic-font-family:auto;
+  mso-font-charset:204;
+  text-align:center;
+  vertical-align:middle;
+  border:.5pt solid windowtext;
+  white-space:normal;}
+.xl85
+  {mso-style-parent:style0;
+  color:black;
+  font-family:"Quattrocento Sans";
+  mso-generic-font-family:auto;
+  mso-font-charset:0;
+  text-align:center;
+  vertical-align:middle;
+  border:.5pt solid windowtext;
+  white-space:normal;}
+</style>
+<style>
+<!--table
+  {mso-displayed-decimal-separator:"\.";
+  mso-displayed-thousand-separator:" ";}
+@page
+  {margin:.75in .7in .75in .7in;
+  mso-header-margin:0in;
+  mso-footer-margin:0in;}
+-->
+</style>
+<![if !supportTabStrip]><script language="JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=4) {
+   if (parent.document.readyState=="complete"
+    && parent.frames['frTabs'].document.readyState=="complete")
+   parent.fnSetActiveSheet(0);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!="frSheet")
+ window.location.replace("../report_process.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=blue vlink=purple><table border=0 cellpadding=0 cellspacing=0 width=1256 style='border-collapse:
+collapse;table-layout:fixed;width:944pt'>
+<col width=36 style='mso-width-source:userset;mso-width-alt:1316;width:27pt'>
+<col width=703 style='mso-width-source:userset;mso-width-alt:25709;width:527pt'>
+<col width=114 span=4 style='mso-width-source:userset;mso-width-alt:4169;
+width:86pt'>
+<col width=61 span=20 style='mso-width-source:userset;mso-width-alt:2230;
+width:46pt'>
+<tr class=xl65 height=33 style='mso-height-source:userset;height:24.75pt'>
+<td colspan=4 height=33 class=xl81 width=967 style='height:24.75pt;
+width:726pt'>Результаты оценки</td>
+<td class=xl68 width=114 style='width:86pt'></td>
+<td class=xl68 width=114 style='width:86pt'></td>
+<td class=xl65 width=61 style='width:46pt'></td>
+</tr><tr class=xl65 height=33 style='mso-height-source:userset;height:24.75pt'>
+<td colspan=4 height=33 class=xl82 style='height:24.75pt'>Гуревич Михаил Евгеньевич</td>
+<td class=xl69></td>
+<td class=xl69></td>
+<td class=xl65></td>
+</tr><tr class=xl65 height=33 style='mso-height-source:userset;height:24.75pt'>
+<td colspan=4 height=33 class=xl81 width=967 style='height:24.75pt;
+width:726pt'>Тест Процесс-Результат (ком.мышл.)</td>
+<td class=xl68 width=114 style='width:86pt'></td>
+<td class=xl68 width=114 style='width:86pt'></td>
+<td class=xl65></td>
+</tr><tr class=xl65 height=33 style='mso-height-source:userset;height:24.75pt'>
+<td colspan=4 height=33 class=xl83 style='height:24.75pt'>Анализ по каждой
+компетенции</td>
+<td class=xl70></td>
+<td class=xl70></td>
+<td class=xl65></td>
+</tr>
+<tr height=56 style='mso-height-source:userset;height:42.0pt'>
+<td height=56 class=xl67 width=36 style='height:42.0pt;border-top:none;
+width:27pt'>№ п/п</td>
+<td class=xl67 width=703 style='border-top:none;border-left:none;width:527pt'>Компетенции</td>
+<td class=xl67 width=114 style='border-top:none;border-left:none;width:86pt'>да</td>
+<td class=xl84 width=114 style='border-top:none;border-left:none;width:86pt'>нет</td>
+<td class=xl71 width=114 style='width:86pt'></td>
+<td class=xl71 width=114 style='width:86pt'></td>
+<td></td>
+</tr><tr height=85 style='mso-height-source:userset;height:63.75pt'>
+	<td height=85 class=xl85 width=36 style='height:63.75pt;border-top:none;
+	width:27pt'>1</td>
+	<td class=xl85 width=703 style='border-top:none;border-left:none;width:527pt'>Сам процесс выполняемой работы увлекает Вас больше, чем этап ее завершения?</td><td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>1</td>
+			<td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>&nbsp;</td></tr><tr height=85 style='mso-height-source:userset;height:63.75pt'>
+	<td height=85 class=xl85 width=36 style='height:63.75pt;border-top:none;
+	width:27pt'>2</td>
+	<td class=xl85 width=703 style='border-top:none;border-left:none;width:527pt'>Вы уверены, что настойчивости в Вас больше, чем способностей?</td><td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>&nbsp;</td>
+			<td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>0</td></tr><tr height=85 style='mso-height-source:userset;height:63.75pt'>
+	<td height=85 class=xl85 width=36 style='height:63.75pt;border-top:none;
+	width:27pt'>3</td>
+	<td class=xl85 width=703 style='border-top:none;border-left:none;width:527pt'>Вам больше нравятся деятельные люди, способные достигать результата, чем  просто добрые и отзывчивые?</td><td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>1</td>
+			<td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>&nbsp;</td></tr><tr height=85 style='mso-height-source:userset;height:63.75pt'>
+	<td height=85 class=xl85 width=36 style='height:63.75pt;border-top:none;
+	width:27pt'>4</td>
+	<td class=xl85 width=703 style='border-top:none;border-left:none;width:527pt'>Вы считаете, что успехов в Вашей жизни больше, чем неудач?</td><td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>1</td>
+			<td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>&nbsp;</td></tr><tr height=85 style='mso-height-source:userset;height:63.75pt'>
+	<td height=85 class=xl85 width=36 style='height:63.75pt;border-top:none;
+	width:27pt'>5</td>
+	<td class=xl85 width=703 style='border-top:none;border-left:none;width:527pt'>Вы часто завершаете работу вопреки неблагоприятной обстановке, нехватке  времени, помехам со стороны?</td><td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>1</td>
+			<td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>&nbsp;</td></tr><tr height=85 style='mso-height-source:userset;height:63.75pt'>
+	<td height=85 class=xl85 width=36 style='height:63.75pt;border-top:none;
+	width:27pt'>6</td>
+	<td class=xl85 width=703 style='border-top:none;border-left:none;width:527pt'>Вы считаете, что имеете достаточно сил, чтобы рассчитывать на успех в жизни?</td><td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>1</td>
+			<td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>&nbsp;</td></tr><tr height=85 style='mso-height-source:userset;height:63.75pt'>
+	<td height=85 class=xl85 width=36 style='height:63.75pt;border-top:none;
+	width:27pt'>7</td>
+	<td class=xl85 width=703 style='border-top:none;border-left:none;width:527pt'>Вам часто удается довести начатое дело до конца?</td><td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>1</td>
+			<td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>&nbsp;</td></tr><tr height=85 style='mso-height-source:userset;height:63.75pt'>
+	<td height=85 class=xl85 width=36 style='height:63.75pt;border-top:none;
+	width:27pt'>8</td>
+	<td class=xl85 width=703 style='border-top:none;border-left:none;width:527pt'>Вы избегаете встреч с людьми, не обладающими деловыми качествами?</td><td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>&nbsp;</td>
+			<td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>0</td></tr><tr height=85 style='mso-height-source:userset;height:63.75pt'>
+	<td height=85 class=xl85 width=36 style='height:63.75pt;border-top:none;
+	width:27pt'>9</td>
+	<td class=xl85 width=703 style='border-top:none;border-left:none;width:527pt'>Вы осуждаете людей, которые не умеют позаботиться о себе?</td><td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>1</td>
+			<td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>&nbsp;</td></tr><tr height=85 style='mso-height-source:userset;height:63.75pt'>
+	<td height=85 class=xl85 width=36 style='height:63.75pt;border-top:none;
+	width:27pt'>10</td>
+	<td class=xl85 width=703 style='border-top:none;border-left:none;width:527pt'>Для достижения цели Вы обычно не жалеете сил?</td><td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>1</td>
+			<td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>&nbsp;</td></tr><tr height=85 style='mso-height-source:userset;height:63.75pt'>
+	<td height=85 class=xl85 width=36 style='height:63.75pt;border-top:none;
+	width:27pt'>11</td>
+	<td class=xl85 width=703 style='border-top:none;border-left:none;width:527pt'>Соглашаясь на какое-либо дело, Вы больше думаете о том, насколько оно Вам  интересно?</td><td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>&nbsp;</td>
+			<td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>0</td></tr><tr height=85 style='mso-height-source:userset;height:63.75pt'>
+	<td height=85 class=xl85 width=36 style='height:63.75pt;border-top:none;
+	width:27pt'>12</td>
+	<td class=xl85 width=703 style='border-top:none;border-left:none;width:527pt'>Вы обычно долго не решаетесь начать делать то, что Вам неинтересно, даже  если это необходимо?</td><td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>&nbsp;</td>
+			<td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>0</td></tr><tr height=85 style='mso-height-source:userset;height:63.75pt'>
+	<td height=85 class=xl85 width=36 style='height:63.75pt;border-top:none;
+	width:27pt'>13</td>
+	<td class=xl85 width=703 style='border-top:none;border-left:none;width:527pt'>Заканчивая интересное дело, Вы часто сожалеете о том, что интересная работа  уже завершена, а с ней жаль расставаться?</td><td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>&nbsp;</td>
+			<td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>0</td></tr><tr height=85 style='mso-height-source:userset;height:63.75pt'>
+	<td height=85 class=xl85 width=36 style='height:63.75pt;border-top:none;
+	width:27pt'>14</td>
+	<td class=xl85 width=703 style='border-top:none;border-left:none;width:527pt'>Вы испытываете удовольствие от игры, в которой не нужно думать о выигрыше?</td><td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>1</td>
+			<td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>&nbsp;</td></tr><tr height=85 style='mso-height-source:userset;height:63.75pt'>
+	<td height=85 class=xl85 width=36 style='height:63.75pt;border-top:none;
+	width:27pt'>15</td>
+	<td class=xl85 width=703 style='border-top:none;border-left:none;width:527pt'>Вы более всего уважаете людей, способных увлечься делом по-настоящему?</td><td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>1</td>
+			<td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>&nbsp;</td></tr><tr height=85 style='mso-height-source:userset;height:63.75pt'>
+	<td height=85 class=xl85 width=36 style='height:63.75pt;border-top:none;
+	width:27pt'>16</td>
+	<td class=xl85 width=703 style='border-top:none;border-left:none;width:527pt'>Вы часто начинаете одновременно много дел и не успеваете закончить их до  конца?</td><td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>&nbsp;</td>
+			<td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>0</td></tr><tr height=85 style='mso-height-source:userset;height:63.75pt'>
+	<td height=85 class=xl85 width=36 style='height:63.75pt;border-top:none;
+	width:27pt'>17</td>
+	<td class=xl85 width=703 style='border-top:none;border-left:none;width:527pt'>Можете ли Вы увлечься делом настолько, что забываете о времени и о себе?</td><td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>1</td>
+			<td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>&nbsp;</td></tr><tr height=85 style='mso-height-source:userset;height:63.75pt'>
+	<td height=85 class=xl85 width=36 style='height:63.75pt;border-top:none;
+	width:27pt'>18</td>
+	<td class=xl85 width=703 style='border-top:none;border-left:none;width:527pt'>Бывает, что Вы, увлекаясь деталями, углубляясь в них, не можете закончить  начатое дело?</td><td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>&nbsp;</td>
+			<td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>0</td></tr><tr height=85 style='mso-height-source:userset;height:63.75pt'>
+	<td height=85 class=xl85 width=36 style='height:63.75pt;border-top:none;
+	width:27pt'>19</td>
+	<td class=xl85 width=703 style='border-top:none;border-left:none;width:527pt'>Вы часто загружаете свой отпуск или выходные дни работой из-за того, что кому- то обещали что-либо сделать?</td><td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>1</td>
+			<td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>&nbsp;</td></tr><tr height=85 style='mso-height-source:userset;height:63.75pt'>
+	<td height=85 class=xl85 width=36 style='height:63.75pt;border-top:none;
+	width:27pt'>20</td>
+	<td class=xl85 width=703 style='border-top:none;border-left:none;width:527pt'>Стремление к результату в любом деле – Ваша отличительная черта?</td><td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>1</td>
+			<td class=xl85 width=114 style='border-top:none;border-left:none;width:86pt'>&nbsp;</td></tr><tr height=21 style='mso-height-source:userset;height:15.75pt'>
+  <td height=21 class=xl66 style='height:15.75pt'></td>
+  <td class=xl66></td>
+  <td class=xl66></td>
+  <td class=xl66></td>
+  <td class=xl66></td>
+  <td class=xl66></td>
+  <td></td>
+ </tr>
+ <tr height=21 style='mso-height-source:userset;height:15.75pt'>
+  <td height=21 class=xl66 style='height:15.75pt'></td>
+  <td class=xl66></td>
+  <td class=xl66></td>
+  <td class=xl66></td>
+  <td class=xl66></td>
+  <td class=xl66></td>
+  <td></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=36 style='width:27pt'></td>
+  <td width=703 style='width:527pt'></td>
+  <td width=114 style='width:86pt'></td>
+  <td width=114 style='width:86pt'></td>
+  <td width=114 style='width:86pt'></td>
+  <td width=114 style='width:86pt'></td>
+  <td width=61 style='width:46pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>

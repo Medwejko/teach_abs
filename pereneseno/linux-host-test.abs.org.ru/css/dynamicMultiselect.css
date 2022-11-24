@@ -1,0 +1,49 @@
+.dm-block {
+    position: absolute;
+    top: calc(1.5em + .75rem + 3px);
+    left: 175px;
+    right: 0;
+    border-left:1px solid rgb(128, 189, 255);
+    border-right:1px solid rgb(128, 189, 255);
+    border-bottom:1px solid rgb(128, 189, 255);
+    box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+}
+.dm-blockCheck {
+    position: absolute;
+    top: calc(1.5em + .75rem + 3px);
+    left: 175px;
+    right: 0;
+    border-left:1px solid rgb(128, 189, 255);
+    border-right:1px solid rgb(128, 189, 255);
+    border-bottom:1px solid rgb(128, 189, 255);
+    box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+}
+.dm-table {
+	margin: 0;
+	text-align: center;
+    background-color: rgba(255,255,255,0.9);
+    text-align: left;  
+    position: absolute;
+    z-index: 5;
+}
+.dm-tableCheck {
+    margin: 0;
+    text-align: center;
+    background-color: rgba(255,255,255,0.9);
+    text-align: left;  
+    position: absolute;
+    z-index: 5;
+}
+.dm-table > tbody > tr > td {
+    padding-left: 13px;
+}
+.dm-table > tr, .dm-table > tr > td {
+
+}
+.input-group-text {
+	width: 175px;
+}
+
+.dm-result-item {
+	cursor: pointer;
+}

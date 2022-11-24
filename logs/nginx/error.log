@@ -1,0 +1,50 @@
+2022/11/18 10:30:33 [notice] 1#1: using the "epoll" event method
+2022/11/18 10:30:33 [notice] 1#1: nginx/1.23.2
+2022/11/18 10:30:33 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/11/18 10:30:33 [notice] 1#1: OS: Linux 5.10.0-18-amd64
+2022/11/18 10:30:33 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/11/18 10:30:33 [notice] 1#1: start worker processes
+2022/11/18 10:30:33 [notice] 1#1: start worker process 21
+2022/11/18 10:30:33 [notice] 1#1: start worker process 22
+2022/11/18 10:32:12 [error] 22#22: *2 connect() failed (113: No route to host) while connecting to upstream, client: 192.168.122.208, server: docker-host-test.abs.org.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://172.25.0.2:9000", host: "docker-host-test.abs.org.ru"
+2022/11/18 10:32:12 [error] 22#22: *2 open() "/var/www/staff/favicon.ico" failed (2: No such file or directory), client: 192.168.122.208, server: docker-host-test.abs.org.ru, request: "GET /favicon.ico HTTP/1.1", host: "docker-host-test.abs.org.ru", referrer: "http://docker-host-test.abs.org.ru/"
+2022/11/18 11:09:31 [error] 21#21: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.208, server: docker-host-test.abs.org.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://172.25.0.2:9000", host: "docker-host-test.abs.org.ru"
+2022/11/18 11:09:34 [error] 21#21: *4 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.208, server: docker-host-test.abs.org.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://172.25.0.2:9000", host: "docker-host-test.abs.org.ru"
+2022/11/18 11:11:00 [error] 21#21: *8 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.208, server: docker-host-test.abs.org.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://172.25.0.2:9000", host: "docker-host-test.abs.org.ru"
+2022/11/18 11:11:02 [error] 21#21: *8 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.208, server: docker-host-test.abs.org.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://172.25.0.2:9000", host: "docker-host-test.abs.org.ru"
+2022/11/18 11:11:06 [error] 21#21: *11 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.208, server: docker-host-test.abs.org.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://172.25.0.2:9000", host: "docker-host-test.abs.org.ru"
+2022/11/18 11:14:40 [error] 21#21: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.208, server: docker-host-test.abs.org.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://172.25.0.2:9000", host: "docker-host-test.abs.org.ru"
+2022/11/18 11:14:42 [error] 21#21: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.208, server: docker-host-test.abs.org.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://172.25.0.2:9000", host: "docker-host-test.abs.org.ru"
+2022/11/18 11:14:42 [error] 21#21: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.208, server: docker-host-test.abs.org.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://172.25.0.2:9000", host: "docker-host-test.abs.org.ru"
+2022/11/18 11:14:43 [error] 21#21: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.208, server: docker-host-test.abs.org.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://172.25.0.2:9000", host: "docker-host-test.abs.org.ru"
+2022/11/18 11:14:43 [error] 21#21: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.208, server: docker-host-test.abs.org.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://172.25.0.2:9000", host: "docker-host-test.abs.org.ru"
+2022/11/18 11:14:43 [error] 21#21: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.208, server: docker-host-test.abs.org.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://172.25.0.2:9000", host: "docker-host-test.abs.org.ru"
+2022/11/18 11:14:43 [error] 21#21: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.208, server: docker-host-test.abs.org.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://172.25.0.2:9000", host: "docker-host-test.abs.org.ru"
+2022/11/18 11:14:43 [error] 21#21: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.208, server: docker-host-test.abs.org.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://172.25.0.2:9000", host: "docker-host-test.abs.org.ru"
+2022/11/18 11:14:44 [error] 21#21: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.208, server: docker-host-test.abs.org.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://172.25.0.2:9000", host: "docker-host-test.abs.org.ru"
+2022/11/18 11:14:44 [error] 21#21: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.208, server: docker-host-test.abs.org.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://172.25.0.2:9000", host: "docker-host-test.abs.org.ru"
+2022/11/18 11:14:45 [error] 21#21: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.208, server: docker-host-test.abs.org.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://172.25.0.2:9000", host: "docker-host-test.abs.org.ru"
+2022/11/18 11:14:45 [error] 21#21: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.208, server: docker-host-test.abs.org.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://172.25.0.2:9000", host: "docker-host-test.abs.org.ru"
+2022/11/18 11:14:45 [error] 21#21: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.208, server: docker-host-test.abs.org.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://172.25.0.2:9000", host: "docker-host-test.abs.org.ru"
+2022/11/18 11:14:45 [error] 21#21: *14 connect() failed (111: Connection refused) while connecting to upstream, client: 192.168.122.208, server: docker-host-test.abs.org.ru, request: "GET / HTTP/1.1", upstream: "fastcgi://172.25.0.2:9000", host: "docker-host-test.abs.org.ru"
+2022/11/18 11:19:13 [notice] 1#1: signal 3 (SIGQUIT) received, shutting down
+2022/11/18 11:19:13 [notice] 22#22: gracefully shutting down
+2022/11/18 11:19:13 [notice] 21#21: gracefully shutting down
+2022/11/18 11:19:13 [notice] 22#22: exiting
+2022/11/18 11:19:13 [notice] 21#21: exiting
+2022/11/18 11:19:13 [notice] 22#22: exit
+2022/11/18 11:19:13 [notice] 21#21: exit
+2022/11/18 11:19:13 [notice] 1#1: signal 17 (SIGCHLD) received from 22
+2022/11/18 11:19:13 [notice] 1#1: worker process 22 exited with code 0
+2022/11/18 11:19:13 [notice] 1#1: signal 29 (SIGIO) received
+2022/11/18 11:19:13 [notice] 1#1: signal 17 (SIGCHLD) received from 21
+2022/11/18 11:19:13 [notice] 1#1: worker process 21 exited with code 0
+2022/11/18 11:19:13 [notice] 1#1: exit
+2022/11/18 11:19:14 [notice] 1#1: using the "epoll" event method
+2022/11/18 11:19:14 [notice] 1#1: nginx/1.23.2
+2022/11/18 11:19:14 [notice] 1#1: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2022/11/18 11:19:14 [notice] 1#1: OS: Linux 5.10.0-18-amd64
+2022/11/18 11:19:14 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/11/18 11:19:14 [notice] 1#1: start worker processes
+2022/11/18 11:19:14 [notice] 1#1: start worker process 28
+2022/11/18 11:19:14 [notice] 1#1: start worker process 29

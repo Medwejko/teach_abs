@@ -1,0 +1,46 @@
+.castom-menu-button {
+    padding-top: 5px;
+    padding-bottom: 0px;
+}
+
+.td-list {
+
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+        vertical-align: center !important;
+}
+
+.nav-link {
+
+    
+
+}
+.modal-xls {
+width: 80%;
+    
+
+}
+.text_result {
+width: 100% !important;
+border: none !important;
+resize : none !important;
+overflow: hidden !important;
+}
+.btn-primary-new {
+    color: #005aff; 
+}
+
+.btn {
+border-radius: 0px;
+}
+.form-control
+{
+	border-radius: 0px;
+}
+.pagination ul 
+{
+  list-style: none;
+  padding: 0;
+  width: 400px;
+  margin: 0 auto;
+}

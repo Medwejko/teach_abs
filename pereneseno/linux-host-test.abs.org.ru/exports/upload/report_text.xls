@@ -1,0 +1,398 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1251">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 14">
+<link id=Main-File rel=Main-File href="../tekst.htm">
+<style type="text/css">
+ tr
+  {mso-height-source:auto;}
+col
+  {mso-width-source:auto;}
+br
+  {mso-data-placement:same-cell;}
+.style0
+  {mso-number-format:General;
+  text-align:general;
+  vertical-align:bottom;
+  white-space:nowrap;
+  mso-rotate:0;
+  mso-background-source:auto;
+  mso-pattern:auto;
+  color:black;
+  font-size:11.0pt;
+  font-weight:400;
+  font-style:normal;
+  text-decoration:none;
+  font-family:Calibri, sans-serif;
+  mso-font-charset:204;
+  border:none;
+  mso-protection:locked visible;
+  mso-style-name:Обычный;
+  mso-style-id:0;}
+td
+  {mso-style-parent:style0;
+  padding-top:1px;
+  padding-right:1px;
+  padding-left:1px;
+  mso-ignore:padding;
+  color:black;
+  font-size:11.0pt;
+  font-weight:400;
+  font-style:normal;
+  text-decoration:none;
+  font-family:Calibri, sans-serif;
+  mso-font-charset:204;
+  mso-number-format:General;
+  text-align:general;
+  vertical-align:bottom;
+  border:none;
+  mso-background-source:auto;
+  mso-pattern:auto;
+  mso-protection:locked visible;
+  white-space:nowrap;
+  mso-rotate:0;}
+.xl65
+  {mso-style-parent:style0;
+  color:#212529;
+  font-size:10.0pt;
+  font-weight:500;
+  font-family:"Segoe UI", sans-serif;
+  mso-font-charset:204;
+  text-align:left;
+  vertical-align:middle;
+  white-space:normal;}
+.xl66
+  {mso-style-parent:style0;
+  color:#212529;
+  font-size:12.0pt;
+  font-family:"Segoe UI", sans-serif;
+  mso-font-charset:204;}
+.xl67
+  {mso-style-parent:style0;
+  color:#212529;
+  font-size:12.0pt;
+  font-weight:700;
+  font-family:"Segoe UI", sans-serif;
+  mso-font-charset:204;
+  text-align:center;
+  vertical-align:middle;
+  white-space:normal;}
+.xl68
+  {mso-style-parent:style0;
+  font-size:12.0pt;
+  font-weight:700;
+  font-family:"Segoe UI", sans-serif;
+  mso-font-charset:204;
+  text-align:center;}
+.xl69
+  {mso-style-parent:style0;
+  color:#6C757D;
+  font-size:10.0pt;
+  font-family:"Segoe UI", sans-serif;
+  mso-font-charset:204;
+  text-align:center;
+  vertical-align:middle;
+  border-top:none;
+  border-right:1.0pt solid #6C757D;
+  border-bottom:1.0pt solid #6C757D;
+  border-left:1.0pt solid #6C757D;
+  white-space:normal;}
+.xl70
+  {mso-style-parent:style0;
+  color:#212529;
+  font-size:12.0pt;
+  font-weight:700;
+  font-family:"Segoe UI", sans-serif;
+  mso-font-charset:204;
+  vertical-align:top;
+  border-top:1.0pt solid windowtext;
+  border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;
+  border-left:1.0pt solid windowtext;
+  background:white;
+  mso-pattern:black none;
+  white-space:normal;}
+.xl71
+  {mso-style-parent:style0;
+  color:#212529;
+  font-size:12.0pt;
+  font-weight:700;
+  font-family:"Segoe UI", sans-serif;
+  mso-font-charset:204;
+  vertical-align:top;
+  border-top:1.0pt solid windowtext;
+  border-right:1.0pt solid windowtext;
+  border-bottom:.5pt solid windowtext;
+  border-left:.5pt solid windowtext;
+  background:white;
+  mso-pattern:black none;
+  white-space:normal;}
+.xl72
+  {mso-style-parent:style0;
+  color:#212529;
+  font-size:12.0pt;
+  font-weight:700;
+  font-family:"Segoe UI", sans-serif;
+  mso-font-charset:204;
+  vertical-align:top;
+  border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;
+  border-left:1.0pt solid windowtext;
+  background:white;
+  mso-pattern:black none;
+  white-space:normal;}
+.xl73
+  {mso-style-parent:style0;
+  color:#212529;
+  font-size:12.0pt;
+  font-weight:700;
+  font-family:"Segoe UI", sans-serif;
+  mso-font-charset:204;
+  vertical-align:top;
+  border-top:.5pt solid windowtext;
+  border-right:1.0pt solid windowtext;
+  border-bottom:.5pt solid windowtext;
+  border-left:.5pt solid windowtext;
+  background:white;
+  mso-pattern:black none;
+  white-space:normal;}
+.xl74
+  {mso-style-parent:style0;
+  color:#212529;
+  font-size:12.0pt;
+  font-weight:700;
+  font-family:"Segoe UI", sans-serif;
+  mso-font-charset:204;
+  vertical-align:top;
+  border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;
+  border-bottom:1.0pt solid windowtext;
+  border-left:1.0pt solid windowtext;
+  background:white;
+  mso-pattern:black none;
+  white-space:normal;}
+.xl75
+  {mso-style-parent:style0;
+  color:#212529;
+  font-size:12.0pt;
+  font-weight:700;
+  font-family:"Segoe UI", sans-serif;
+  mso-font-charset:204;
+  vertical-align:top;
+  border-top:.5pt solid windowtext;
+  border-right:1.0pt solid windowtext;
+  border-bottom:1.0pt solid windowtext;
+  border-left:.5pt solid windowtext;
+  background:white;
+  mso-pattern:black none;
+  white-space:normal;}
+.xl76
+  {mso-style-parent:style0;
+  color:#212529;
+  font-size:12.0pt;
+  font-family:"Segoe UI", sans-serif;
+  mso-font-charset:204;
+  vertical-align:top;
+  border-top:1.0pt solid windowtext;
+  border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;
+  border-left:1.0pt solid windowtext;
+  background:white;
+  mso-pattern:black none;
+  white-space:normal;}
+.xl77
+  {mso-style-parent:style0;
+  color:#212529;
+  font-size:12.0pt;
+  font-family:"Segoe UI", sans-serif;
+  mso-font-charset:204;
+  vertical-align:top;
+  border-top:1.0pt solid windowtext;
+  border-right:1.0pt solid windowtext;
+  border-bottom:.5pt solid windowtext;
+  border-left:.5pt solid windowtext;
+  background:white;
+  mso-pattern:black none;
+  white-space:normal;}
+.xl78
+  {mso-style-parent:style0;
+  color:#212529;
+  font-size:12.0pt;
+  font-family:"Segoe UI", sans-serif;
+  mso-font-charset:204;
+  vertical-align:top;
+  border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;
+  border-bottom:.5pt solid windowtext;
+  border-left:1.0pt solid windowtext;
+  background:white;
+  mso-pattern:black none;
+  white-space:normal;}
+.xl79
+  {mso-style-parent:style0;
+  color:#212529;
+  font-size:12.0pt;
+  font-family:"Segoe UI", sans-serif;
+  mso-font-charset:204;
+  vertical-align:top;
+  border-top:.5pt solid windowtext;
+  border-right:1.0pt solid windowtext;
+  border-bottom:.5pt solid windowtext;
+  border-left:.5pt solid windowtext;
+  background:white;
+  mso-pattern:black none;
+  white-space:normal;}
+.xl80
+  {mso-style-parent:style0;
+  color:#212529;
+  font-size:12.0pt;
+  font-family:"Segoe UI", sans-serif;
+  mso-font-charset:204;
+  vertical-align:top;
+  border-top:.5pt solid windowtext;
+  border-right:.5pt solid windowtext;
+  border-bottom:1.0pt solid windowtext;
+  border-left:1.0pt solid windowtext;
+  background:white;
+  mso-pattern:black none;
+  white-space:normal;}
+.xl81
+  {mso-style-parent:style0;
+  color:#212529;
+  font-size:12.0pt;
+  font-family:"Segoe UI", sans-serif;
+  mso-font-charset:204;
+  vertical-align:top;
+  border-top:.5pt solid windowtext;
+  border-right:1.0pt solid windowtext;
+  border-bottom:1.0pt solid windowtext;
+  border-left:.5pt solid windowtext;
+  background:white;
+  mso-pattern:black none;
+  white-space:normal;}
+
+</style>
+<style>
+<!--table
+  {mso-displayed-decimal-separator:"\,";
+  mso-displayed-thousand-separator:" ";}
+@page
+  {margin:.75in .7in .75in .7in;
+  mso-header-margin:.3in;
+  mso-footer-margin:.3in;}
+-->
+</style>
+<![if !supportTabStrip]><script language="JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=4) {
+   if (parent.document.readyState=="complete"
+    && parent.frames['frTabs'].document.readyState=="complete")
+   parent.fnSetActiveSheet(0);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!="frSheet")
+ window.location.replace("../tekst.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=blue vlink=purple>
+<table border=0 cellpadding=0 cellspacing=0 width=1408 style='border-collapse:
+collapse;table-layout:fixed;width:1056pt'>
+<col width=352 span=4 style='mso-width-source:userset;mso-width-alt:12873;
+width:264pt'><tr height=43 style='mso-height-source:userset;height:32.25pt'>
+<td colspan=4 height=43 class=xl67 width=1408 style='border-right:1.0pt solid black;height:32.25pt;
+width:1056pt'>Опросник "Самооценка"  </td>
+</tr><tr height=43 style='mso-height-source:userset;height:32.25pt'>
+				<td colspan=4 height=43 class=xl67 width=1408 style='border-top:1.0pt solid black;border-right:1.0pt solid black;height:32.25pt;
+				width:1056pt'>Самооценка Скробач Наталья Константиновна</td>
+				</tr><tr height=95 style='mso-height-source:userset;height:71.25pt'>
+	<td colspan=2 height=95 class=xl70 width=704 style='border-right:1.0pt solid black;
+	height:71.25pt;width:528pt'>1. Укажите Ваши значимые (успешные) результаты работы за последний год работы.</td><td colspan=2 class=xl76 width=704 style='border-right:1.0pt solid black;
+		border-left:none;width:528pt;box-sizing: border-box;padding:0.75rem'>Провела работу по выявлению и развитию кадрового резерва на участке</td><tr height=95 style='mso-height-source:userset;height:71.25pt'>
+	<td colspan=2 height=95 class=xl70 width=704 style='border-right:1.0pt solid black;
+	height:71.25pt;width:528pt'>2. Какие приоритетные задачи поставлены перед Вами на ближайшее время (год, полугодие)</td><td colspan=2 class=xl76 width=704 style='border-right:1.0pt solid black;
+		border-left:none;width:528pt;box-sizing: border-box;padding:0.75rem'>Закрыть проблемные вакансии, минимизировать переработки водителей</td><tr height=95 style='mso-height-source:userset;height:71.25pt'>
+	<td colspan=2 height=95 class=xl70 width=704 style='border-right:1.0pt solid black;
+	height:71.25pt;width:528pt'>3. Видите ли Вы свое развитие в других службах и подразделениях компании?</td><td colspan=2 class=xl76 width=704 style='border-right:1.0pt solid black;
+		border-left:none;width:528pt;box-sizing: border-box;padding:0.75rem'>Возможно</td><tr height=95 style='mso-height-source:userset;height:71.25pt'>
+	<td colspan=2 height=95 class=xl70 width=704 style='border-right:1.0pt solid black;
+	height:71.25pt;width:528pt'>4. Предложите изменения, которые могут содействовать повышению эффективности работы подразделения и компании в целом?</td><td colspan=2 class=xl76 width=704 style='border-right:1.0pt solid black;
+		border-left:none;width:528pt;box-sizing: border-box;padding:0.75rem'>1</td><tr height=95 style='mso-height-source:userset;height:71.25pt'>
+	<td colspan=2 height=95 class=xl70 width=704 style='border-right:1.0pt solid black;
+	height:71.25pt;width:528pt'>5. Опишите взаимодействие с другими подразделениями - эффективность, оперативность, препятствия и пр..</td><td colspan=2 class=xl76 width=704 style='border-right:1.0pt solid black;
+		border-left:none;width:528pt;box-sizing: border-box;padding:0.75rem'>Сложно. Не всегда оперативно</td><tr height=95 style='mso-height-source:userset;height:71.25pt'>
+	<td colspan=2 height=95 class=xl70 width=704 style='border-right:1.0pt solid black;
+	height:71.25pt;width:528pt'>6. Что побуждает Вас к работе и развитию в Компании? </td><td colspan=2 class=xl76 width=704 style='border-right:1.0pt solid black;
+		border-left:none;width:528pt;box-sizing: border-box;padding:0.75rem'>Нестандартные ситуации, новые знания</td><tr height=95 style='mso-height-source:userset;height:71.25pt'>
+	<td colspan=2 height=95 class=xl70 width=704 style='border-right:1.0pt solid black;
+	height:71.25pt;width:528pt'>7. Проходили ли Вы какое-либо самостоятельно дополнительное обучение (курсы, семинары, чтение книг и т.д.) за последний год работы в компании ? Укажите название обучающих программ, по которым Вы обучились.</td><td colspan=2 class=xl76 width=704 style='border-right:1.0pt solid black;
+		border-left:none;width:528pt;box-sizing: border-box;padding:0.75rem'>1 раз в квартал проходили обучения внутри компании, самостоятельное отслеживание изменений ТК РФ, нововведений </td><tr height=95 style='mso-height-source:userset;height:71.25pt'>
+	<td colspan=2 height=95 class=xl70 width=704 style='border-right:1.0pt solid black;
+	height:71.25pt;width:528pt'>8. Готовы ли вы к переезду?</td><td colspan=2 class=xl76 width=704 style='border-right:1.0pt solid black;
+		border-left:none;width:528pt;box-sizing: border-box;padding:0.75rem'>Возможно</td> <tr height=21 style='height:15.75pt'>
+  <td height=21 class=xl69 width=352 style='height:15.75pt;width:264pt'>&nbsp;</td>
+  <td colspan=3 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 colspan=4 style='height:15.0pt;mso-ignore:colspan'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl65 width=352 style='height:15.0pt;width:264pt'></td>
+  <td colspan=3 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 colspan=4 style='height:15.0pt;mso-ignore:colspan'></td>
+ </tr>
+ <tr height=23 style='height:17.25pt'>
+  <td height=23 class=xl66 style='height:17.25pt'></td>
+  <td colspan=3 style='mso-ignore:colspan'></td>
+ </tr>
+ <tr height=40 style='height:30.0pt;mso-xlrowspan:2'>
+  <td height=40 colspan=4 style='height:30.0pt;mso-ignore:colspan'></td>
+ </tr>
+ <tr height=460 style='mso-height-source:userset;height:345.0pt'>
+  <td height=460 colspan=4 style='height:345.0pt;mso-ignore:colspan'></td>
+ </tr>
+ <tr height=138 style='mso-height-source:userset;height:103.5pt'>
+  <td height=138 colspan=4 style='height:103.5pt;mso-ignore:colspan'></td>
+ </tr>
+ <tr height=230 style='mso-height-source:userset;height:172.5pt'>
+  <td height=230 colspan=4 style='height:172.5pt;mso-ignore:colspan'></td>
+ </tr>
+ <tr height=161 style='mso-height-source:userset;height:120.75pt'>
+  <td height=161 colspan=4 style='height:120.75pt;mso-ignore:colspan'></td>
+ </tr>
+ <tr height=345 style='mso-height-source:userset;height:258.75pt'>
+  <td height=345 colspan=4 style='height:258.75pt;mso-ignore:colspan'></td>
+ </tr>
+ <tr height=138 style='mso-height-source:userset;height:103.5pt'>
+  <td height=138 colspan=4 style='height:103.5pt;mso-ignore:colspan'></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=352 style='width:264pt'></td>
+  <td width=352 style='width:264pt'></td>
+  <td width=352 style='width:264pt'></td>
+  <td width=352 style='width:264pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>

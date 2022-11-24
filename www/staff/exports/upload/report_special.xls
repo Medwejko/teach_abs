@@ -1,0 +1,458 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1251">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 14">
+<link id=Main-File rel=Main-File href="../NEw.htm">
+<style type="text/css">
+  tr
+  {mso-height-source:auto;}
+col
+  {mso-width-source:auto;}
+br
+  {mso-data-placement:same-cell;}
+.style0
+  {mso-number-format:General;
+  text-align:general;
+  vertical-align:bottom;
+  white-space:nowrap;
+  mso-rotate:0;
+  mso-background-source:auto;
+  mso-pattern:auto;
+  color:black;
+  font-size:11.0pt;
+  font-weight:400;
+  font-style:normal;
+  text-decoration:none;
+  font-family:Calibri;
+  mso-generic-font-family:auto;
+  mso-font-charset:0;
+  border:none;
+  mso-protection:locked visible;
+  mso-style-name:РћР±С‹С‡РЅС‹Р№;
+  mso-style-id:0;}
+td
+  {mso-style-parent:style0;
+  padding-top:1px;
+  padding-right:1px;
+  padding-left:1px;
+  mso-ignore:padding;
+  color:black;
+  font-size:11.0pt;
+  font-weight:400;
+  font-style:normal;
+  text-decoration:none;
+  font-family:Calibri;
+  mso-generic-font-family:auto;
+  mso-font-charset:0;
+  mso-number-format:General;
+  text-align:general;
+  vertical-align:bottom;
+  border:none;
+  mso-background-source:auto;
+  mso-pattern:auto;
+  mso-protection:locked visible;
+  white-space:nowrap;
+  mso-rotate:0;}
+.xl65
+  {mso-style-parent:style0;
+  font-family:"Quattrocento Sans";
+  mso-generic-font-family:auto;
+  mso-font-charset:0;
+  vertical-align:middle;
+  border:.5pt solid black;
+  background:#00b050;
+  mso-pattern:#00b050 none;
+  white-space:normal;}
+.xl66
+  {mso-style-parent:style0;
+  font-family:"Quattrocento Sans";
+  mso-generic-font-family:auto;
+  mso-font-charset:0;
+  text-align:center;
+  vertical-align:middle;
+  border:.5pt solid black;
+  white-space:normal;}
+.xl67
+  {mso-style-parent:style0;
+  font-family:"Quattrocento Sans";
+  mso-generic-font-family:auto;
+  mso-font-charset:0;
+  vertical-align:middle;
+  border:.5pt solid black;
+  background:#ffff00;
+  mso-pattern:#ffff00 none;
+  white-space:normal;}
+.xl68
+  {mso-style-parent:style0;
+  font-family:"Quattrocento Sans";
+  mso-generic-font-family:auto;
+  mso-font-charset:0;
+  vertical-align:middle;
+  border:.5pt solid black;
+  background:#ff0000;
+  mso-pattern:#ff0000 none;
+  white-space:normal;}
+.xl69
+  {mso-style-parent:style0;
+  color:white;
+  font-family:"Quattrocento Sans";
+  mso-generic-font-family:auto;
+  mso-font-charset:0;
+  vertical-align:middle;
+  border:.5pt solid black;
+  background:#000000;
+  mso-pattern:#000000 none;
+  white-space:normal;}
+.xl70
+  {mso-style-parent:style0;
+  font-weight:700;
+  font-family:"Quattrocento Sans";
+  mso-generic-font-family:auto;
+  mso-font-charset:0;
+  text-align:center;
+  vertical-align:middle;
+  border:.5pt solid black;
+  white-space:normal;}
+.xl71
+  {mso-style-parent:style0;
+  font-family:"Quattrocento Sans";
+  mso-generic-font-family:auto;
+  mso-font-charset:0;
+  vertical-align:middle;
+  border:.5pt solid black;
+  white-space:normal;}
+.xl72
+  {mso-style-parent:style0;
+  font-family:"Quattrocento Sans";
+  mso-generic-font-family:auto;
+  mso-font-charset:0;
+  text-align:center;
+  vertical-align:middle;
+  border:.5pt solid black;
+  background:#ffff00;
+  mso-pattern:#ffff00 none;
+  white-space:normal;}
+.xl73
+  {mso-style-parent:style0;
+  font-family:"Quattrocento Sans";
+  mso-generic-font-family:auto;
+  mso-font-charset:0;
+  text-align:center;
+  vertical-align:middle;
+  border:.5pt solid black;
+  background:#00b050;
+  mso-pattern:#00b050 none;
+  white-space:normal;}
+.xl74
+  {mso-style-parent:style0;
+  font-family:"Quattrocento Sans";
+  mso-generic-font-family:auto;
+  mso-font-charset:0;
+  text-align:center;
+  vertical-align:middle;
+  border:.5pt solid black;
+  background:#ff0000;
+  mso-pattern:#ff0000 none;
+  white-space:normal;}
+.xl75
+  {mso-style-parent:style0;
+  color:white;
+  font-family:"Quattrocento Sans";
+  mso-generic-font-family:auto;
+  mso-font-charset:0;
+  text-align:center;
+  vertical-align:middle;
+  border:.5pt solid black;
+  background:#000000;
+  mso-pattern:#000000 none;
+  white-space:normal;}
+.xl76
+  {mso-style-parent:style0;
+  font-family:"Quattrocento Sans";
+  mso-generic-font-family:auto;
+  mso-font-charset:0;
+  text-align:center;
+  vertical-align:middle;
+  border-top:.5pt solid black;
+  border-right:none;
+  border-bottom:.5pt solid black;
+  border-left:.5pt solid black;
+  white-space:normal;}
+.xl77
+  {mso-style-parent:style0;
+  color:windowtext;
+  font-family:Calibri, sans-serif;
+  mso-font-charset:204;
+  border-top:.5pt solid black;
+  border-right:none;
+  border-bottom:.5pt solid black;
+  border-left:none;}
+.xl78
+  {mso-style-parent:style0;
+  color:windowtext;
+  font-family:Calibri, sans-serif;
+  mso-font-charset:204;
+  border-top:.5pt solid black;
+  border-right:.5pt solid black;
+  border-bottom:.5pt solid black;
+  border-left:none;}
+.xl79
+  {mso-style-parent:style0;
+  color:#212529;
+  font-size:12.0pt;
+  font-family:"Quattrocento Sans";
+  mso-generic-font-family:auto;
+  mso-font-charset:0;
+  text-align:center;
+  vertical-align:middle;
+  border-top:.5pt solid black;
+  border-right:none;
+  border-bottom:.5pt solid black;
+  border-left:.5pt solid black;
+  white-space:normal;}
+.xl80
+  {mso-style-parent:style0;
+  color:#212529;
+  font-size:12.0pt;
+  font-weight:700;
+  font-family:Arial, sans-serif;
+  mso-font-charset:204;
+  text-align:center;
+  vertical-align:middle;
+  border-top:.5pt solid black;
+  border-right:none;
+  border-bottom:.5pt solid black;
+  border-left:.5pt solid black;
+  white-space:normal;}
+.xl81
+  {mso-style-parent:style0;
+  color:windowtext;
+  font-family:Calibri, sans-serif;
+  mso-font-charset:204;
+  vertical-align:middle;
+  border-top:.5pt solid black;
+  border-right:none;
+  border-bottom:.5pt solid black;
+  border-left:none;}
+.xl82
+  {mso-style-parent:style0;
+  color:windowtext;
+  font-family:Calibri, sans-serif;
+  mso-font-charset:204;
+  vertical-align:middle;
+  border-top:.5pt solid black;
+  border-right:.5pt solid black;
+  border-bottom:.5pt solid black;
+  border-left:none;}
+.xl83
+  {mso-style-parent:style0;
+  vertical-align:middle;}
+.xl84
+  {mso-style-parent:style0;
+  font-size:12.0pt;
+  font-weight:700;
+  font-family:Arial, sans-serif;
+  mso-font-charset:204;
+  text-align:center;
+  vertical-align:middle;
+  border-top:.5pt solid black;
+  border-right:none;
+  border-bottom:.5pt solid black;
+  border-left:.5pt solid black;}
+.xl85
+  {mso-style-parent:style0;
+  font-size:12.0pt;
+  font-family:Arial, sans-serif;
+  mso-font-charset:204;
+  text-align:center;
+  vertical-align:middle;
+  border-top:.5pt solid black;
+  border-right:none;
+  border-bottom:.5pt solid black;
+  border-left:.5pt solid black;}
+
+</style>
+<style>
+<!--table
+  {mso-displayed-decimal-separator:"\,";
+  mso-displayed-thousand-separator:" ";}
+@page
+  {margin:.75in .7in .75in .7in;
+  mso-header-margin:0in;
+  mso-footer-margin:0in;}
+-->
+</style>
+<![if !supportTabStrip]><script language="JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=4) {
+   if (parent.document.readyState=="complete"
+    && parent.frames['frTabs'].document.readyState=="complete")
+   parent.fnSetActiveSheet(0);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!="frSheet")
+ window.location.replace("../NEw.htm");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=blue vlink=purple>
+<table border=0 cellpadding=0 cellspacing=0 width=1195 style='border-collapse:
+collapse;table-layout:fixed;width:898pt'>
+<col width=36 style='mso-width-source:userset;mso-width-alt:1316;width:27pt'>
+<col width=703 style='mso-width-source:userset;mso-width-alt:25709;width:527pt'>
+<col width=114 span=4 style='mso-width-source:userset;mso-width-alt:4169;
+width:86pt'>
+<col width=61 span=20 style='mso-width-source:userset;mso-width-alt:2230;
+width:46pt'>
+<tr class=xl83 height=33 style='mso-height-source:userset;height:24.75pt'>
+<td colspan=7 height=33 class=xl80 width=1195 style='border-right:.5pt solid black;
+height:24.75pt;width:898pt'>Результаты оценки</td>
+</tr><tr class=xl83 height=33 style='mso-height-source:userset;height:24.75pt'>
+<td colspan=7 height=33 class=xl84 style='border-right:.5pt solid black;
+height:24.75pt'>Тытюк Любовь Степановна</td>
+</tr><tr class=xl83 height=33 style='mso-height-source:userset;height:24.75pt'>
+<td colspan=7 height=33 class=xl80 width=1195 style='border-right:.5pt solid black;
+height:24.75pt;width:898pt'>Оценка 360 для специалистов с 2021</td>
+</tr><tr class=xl83 height=33 style='mso-height-source:userset;height:24.75pt'>
+<td colspan=7 height=33 class=xl85 style='border-right:.5pt solid black;
+height:24.75pt'>Анализ по каждой компетенции</td>
+</tr>
+<tr height=55 style='mso-height-source:userset;height:41.25pt'>
+<td colspan=7 height=55 class=xl79 width=1195 style='border-right:.5pt solid black;
+height:41.25pt;width:898pt'>Этот раздел аналитической части отчета подробно
+сравнивается оценка каждой группы опрошенных, средняя оценка, Ваша самооценка
+и желаемый уровень для данной компетенции:</td>
+</tr>
+<tr height=43 style='mso-height-source:userset;height:32.25pt'>
+<td height=43 class=xl65 width=36 style='height:32.25pt;border-top:none;
+width:27pt'>&nbsp;</td>
+<td class=xl66 width=703 style='border-top:none;border-left:none;width:527pt'>3,3
+- 4</td>
+<td colspan=5 class=xl76 width=456 style='border-right:.5pt solid black;
+border-left:none;width:344pt'>желаемый уровень</td>
+</tr>
+<tr height=43 style='mso-height-source:userset;height:32.25pt'>
+<td height=43 class=xl67 width=36 style='height:32.25pt;border-top:none;
+width:27pt'>&nbsp;</td>
+<td class=xl66 width=703 style='border-top:none;border-left:none;width:527pt'>2,6
+-3,2</td>
+<td colspan=5 class=xl76 width=456 style='border-right:.5pt solid black;
+border-left:none;width:344pt'>оптимальный уровень</td>
+</tr>
+<tr height=43 style='mso-height-source:userset;height:32.25pt'>
+<td height=43 class=xl68 width=36 style='height:32.25pt;border-top:none;
+width:27pt'>&nbsp;</td>
+<td class=xl66 width=703 style='border-top:none;border-left:none;width:527pt'>1,1
+- 2,5</td>
+<td colspan=5 class=xl76 width=456 style='border-right:.5pt solid black;
+border-left:none;width:344pt'>низкий уровень</td>
+</tr>
+<tr height=43 style='mso-height-source:userset;height:32.25pt'>
+<td height=43 class=xl69 width=36 style='height:32.25pt;border-top:none;
+width:27pt'>&nbsp;</td>
+<td class=xl66 width=703 style='border-top:none;border-left:none;width:527pt'>1</td>
+<td colspan=5 class=xl76 width=456 style='border-right:.5pt solid black;
+border-left:none;width:344pt'>отсутствует</td>
+</tr>
+<tr height=86 style='mso-height-source:userset;height:64.5pt'>
+
+<td colspan=3 class=xl70 width=703 style='border-top:none;border-left:none;width:527pt'>Компетенции</td>
+<td class=xl70 width=114 style='border-top:none;border-left:none;width:86pt'>Самооценка</td>
+<td class=xl70 width=114 style='border-top:none;border-left:none;width:86pt'>Оценка
+руководителя</td>
+<td class=xl70 width=114 style='border-top:none;border-left:none;width:86pt'>Оценка
+коллег</td>
+<td class=xl70 width=114 style='border-top:none;border-left:none;width:86pt'>Средний балл</td>
+</tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>Средний балл по всем компетенциям</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,5</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,5</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,2</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,4</td><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+	<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'><b>Коммерческое мышление</b>.  Способность использовать экономические показатели при принятии решений с точки зрения сокращения затрат и прибыльности. Действует на рабочем месте, исходя из понимания выгодности тех или иных действий для Компании.</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'></td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>3,3</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,1</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,1</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>1. В работе оценивает результативность варианта решения с точки зрения сокращения затрат и возможной прибыли</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>2. Предлагает новые идеи для повышения эффективности своей работы (качество, количество, сроки), которые влияют на общий результат подразделения</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>3. Проявляет готовность внедрять новые методы работы, улучающие эффективность своей деятельность (качество, количество, сроки)</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+	<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'><b>Нацеленность на результат</b>. Стремление достигнуть поставленной цели, понимание приоритета результата над процессом. Эффективное преодоление препятствий на пути к цели.</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,3</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,3</td><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'></td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,2</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>3,3</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>1. Качественно выполняет должностные обязанности, в соответствии с должностной инструкцией и основным результатом деятельности</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>2. Выполняет задачи с соблюдением сроков и эффективностью не ниже ожидаемой</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>3. Проявляет настойчивость и самостоятельность в достижении целей и преодолении препятствий</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+	<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'><b>Клиентоориентированность</b>. Чуткое понимание и удовлетворение потребности клиентов (в т.ч. внутренних – смежные подразделения, коллеги).</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,6</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,6</td><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'></td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>3,4</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,2</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,2</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>1. Знает, кто является его внутренними клиентами, в чем состоят их потребности и стремится их удовлетворить</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>2. Понимает, что репутация компании зависит от впечатлений и эмоций клиентов и организует всю свою деятельность для защиты репутации компании, и, соответственно, удовлетворения клиентов</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>3. В работе придерживается позиции, что окончанием работы является успешное принятие ее клиентом</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>4. Находится в оперативном контакте со своими клиентами: учитывает изменения в потребностях клиента для корректировки результатов своей работы</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>5. Своевременно информирует клиентов о возникающих проблемах и способен самостоятельно урегулировать конфликтную ситуацию и снять претензии</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+	<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'><b>Ориентация на развитие</b>. Открытость новым знаниям и опыту, способность самостоятельно наращивать профессиональную компетентность и всесторонне развиваться.</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,5</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,5</td><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'></td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>3,8</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,1</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>3,3</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>1. Стремится быть в курсе актуальной информации по своей зоне ответственности</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>2. Быстро осваивает и применяет на практике новую информацию по своей зоне ответственности</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>3. Берет сложные задачи, находящиеся в зоне его развития</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>4. Вносит предложения по улучшению процессов, в которых он участвует</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+	<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'><b>Командность</b>. Способность продуктивно работать в команде, преодолевая возникающие противоречия и конфликтные ситуации. Стремиться оказывать помощь коллегам и передавать накопленный опыт.</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,8</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,8</td><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'></td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>3,3</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>3,3</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>3,3</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>1. Готов оказывать помощь коллегам</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>2. Находит конструктивные решения конфликтов и противоречий при общении в коллективе</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>3.  По собственной инициативе делится накопленным опытом и знаниями</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>4. Проявляет готовность быть наставником для новых сотрудников</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+	<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'><b>Системное мышление</b>. Умение структурировать и анализировать информацию, делать выводы и прогнозы, оценивать риски и последствия собственных действий. Способность видеть все составные части процесса и принимать целостное решение, учитывающее все области ситуации</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,5</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,5</td><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'></td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>3,3</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,1</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,2</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>1. Способен видеть и анализировать ситуацию в целом</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>2. Способен выделять основные закономерности при анализе любых вопросов</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>3. При анализе информации способен отделять главное от второстепенного</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>4. Мыслит вариативно: предлагает несколько различных решений проблемы, не ограничивается стандартными вариантами</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+	<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'><b>Управление процессами</b>. Способность организовать процесс исполнения, нести ответственность за полученный результат и его последствия. Способность вести деятельность в соответствии с регламентами и инструкциями Компании</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,8</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,8</td><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'></td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>3,8</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>3,4</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>3,5</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>1. Планирует встречи и задачи и четко придерживается намеченного плана</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>2. Самостоятельно организовывает процесс работы и необходимое взаимодействие</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>3. В работе придерживается установленных в Компании регламентов и инструкций</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>4. Готов нести личную ответственность за допущенные в работе ошибки</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+	<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'><b>Взаимодействие с людьми</b>. Умение эффективно строить взаимоотношения с людьми, способность выразить и донести свою точку зрения с помощью всех возможных способов коммуникации (устных и письменных) в ситуациях делового общения и переговоров. Способность адаптироваться под разные стили общения. Умеет различать свои эмоции и эмоции окружающих, и управлять ими.</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'></td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,2</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,1</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,1</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>1. В письменной и устной коммуникации придерживается стандартов делового общения</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>2. В письменной коммуникации демонстрирует грамотность и логичное изложение сути</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>3. В устной коммуникации ясно и четко формулирует свои мысли, умеет аргументировать свою позицию и доносить суть</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>4. Чувствителен к эмоциональным сигналам собеседника, реагирует на них, повышая качество общения</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>5. Умеет различать свои эмоции и управлять ими. В напряженных ситуациях  проявляет корректность в общении, стремится разрешать конфликты с помощью компромиссов</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>3,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+	<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'><b>Лояльность к Компании</b>. Преданность компании, корректное и благожелательное отношение к ней. Разделение ее ценностей, правил и норм.</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl72 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'></td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>3,5</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>3,6</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>1. Знает и разделяет ценности Компании</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>2. Находит собственные цели и ценности схожими с целями и ценностями Компании</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>3. Проявляет готовность в будущем работать в Компании</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>4. С гордостью и воодушевлением говорит о своей работе. Рекомендует друзьям и родственникам компанию как работодателя или поставщика услуг</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td></tr><tr height=86 style='mso-height-source:userset;height:64.5pt'>
+		<td colspan=3 class=xl71 width=703 style='border-top:none;border-left:none;width:527pt'>5. При принятии решений ставит интересы Компании на первое место</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl66 width=114 style='border-top:none;border-left:none;width:86pt'>Н/Д</td><td class=xl73 width=114 style='border-top:none;border-left:none;width:86pt'>4,0</td></tr> <tr height=504 style='mso-height-source:userset;height:378.0pt;mso-xlrowspan:
+  24'>
+  <td height=504 colspan=6 style='height:378.0pt;mso-ignore:colspan'></td>
+ </tr>
+ <tr height=168 style='mso-height-source:userset;height:126.0pt;mso-xlrowspan:
+  8'>
+  <td height=168 colspan=6 style='height:126.0pt;mso-ignore:colspan'></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=36 style='width:27pt'></td>
+  <td width=703 style='width:527pt'></td>
+  <td width=114 style='width:86pt'></td>
+  <td width=114 style='width:86pt'></td>
+  <td width=114 style='width:86pt'></td>
+  <td width=114 style='width:86pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>

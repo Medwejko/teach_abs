@@ -1,0 +1,54 @@
+
+version: '3.9'
+# Список наших сервисов (контейнеров)
+services:
+    nginx:
+        image: nginx
+        ports:
+            - "80:80"
+        
+        volumes:
+            - ./hosts:/etc/nginx/conf.d
+            - ./www:/var/www
+            - ./logs/nginx:/var/log/nginx
+        restart: always
+        links:
+            - php
+    php:
+        # у нас свой образ для PHP, указываем путь к нему и говорим что его надо собрать
+        build: ./images/php
+        # монтируем директорию с проектами
+        volumes:
+            - ./www:/var/www
+        restart: always
+
+    mysql:
+        image: mysql:5.7
+        ports:
+            - 3306:3306
+        volumes:
+#            - ./etc/mysql:/etc/mysql
+#            - ./logs/mysql:/var/log/mysql
+            - ./mysql:/var/lib/mysql
+#            - ./mysql-files:/var/lib/mysql-files
+        # - ./data:/docker-entrypoint-initdb.d
+        # задаем пароль для root пользователя
+        # заливку дампа сайта и создание пользователя для доступа к базе снаружи будем делать позже 
+        environment:
+            MYSQL_ROOT_USER: "deployer"
+            MYSQL_ROOT_PASSWORD: "ZXCdsaqwe1586"
+            MYSQL_DATABASE: "staff"
+        restart: always
+
+    phpmyadmin:
+        image: phpmyadmin
+        container_name: phpmyadmin
+        restart: always
+        ports:
+            - 8080:80
+        environment:
+            - PMA_ARBITRARY=1
+        
+            
+
+
